@@ -1,0 +1,11 @@
+{
+  "apps": {
+    "penskemediacorp": {
+      "name": "penskemediacorp",
+      "app_id": "A04M0N19LBZ",
+      "team_id": "T02GZLU81",
+      "IsDev": false
+    }
+  },
+  "default": "penskemediacorp"
+}
